@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+p {
+  font-family: "Dancing Script", cursive;
+  font-size: 150%;
+}
+
+.navegacion {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    box-shadow: 0 0 29px 0 rgba(134, 134, 134, 0.25);
+    
+}
+.navegacion li{
+margin: 20px;
+
+}
+
+.estructura {
+    background-image: initial;
+    display: flex;
+    width: 100%;
+    height: auto;
+    
+}
+.presentacion {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.imagen{
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 100%;
+height: auto;
+}
+h1{
+text-align: center;
+
+   
+
+}
+.conocimientos {
+    background-color:#f6f7fb;
+    height: 150%;
+    width: 100%;
+}
+.contenedora {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    
+        
+    }
+    .seccion-principal {
+        background-color:#fff;
+        height: 130 px;
+        width: 240px;
+    
+        border: 1px solid rgb(228, 228, 228);
+        border-radius: 8px;
+        padding: 40px 20px;
+        margin: 10px;
+       
+    }
+    
+    body{
+        text-align: center;
+    
+    }
+.comillas {
+
+}
+.frase {
+    background-color: mediumpurple;
+    color: mintcream;
+    height: 500px;
+    width: 100%;  
+    display: flex;
+    align-items: center; 
+}
+
+.Proyectos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items:center;
+    
+}
+
+.seccion-proyectos {
+        background-color:#fff;
+        width: 300px;
+        height: 200px;
+    
+        border: 1px solid rgb(228, 228, 228);
+        border-radius: 8px;
+        padding: 40px 20px;
+        margin: 10px;
+        display: flex;
+        align-items: center;  
+    }
+    
+    .Proyectos2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items:center;
+        
+    }
+    
+    .seccion-proyectos2 {
+        background-color:#fff;
+        width: 300px;
+        height: 200px;
+    
+        border: 1px solid rgb(228, 228, 228);
+        border-radius: 8px;
+        padding: 40px 20px;
+        margin: 10px;
+        display: flex;
+        align-items: center;  
+    }
+
+footer{
+    background-color: mediumpurple;
+    height: 150px;
+    width: 200%;
+    
+}
+.contacto li {
+    list-style-type: none;
+    align-items: center;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+}
+
+.devicon-twitter-plain {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.devicon-github-plain{
+    font-size: 30px;
+    margin: 10px;
+}
+.devicon-linkedin-plain{
+    font-size: 30px;
+    margin: 10px;
+}
